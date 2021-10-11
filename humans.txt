@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Dipayan Ray DipayanRay@email.com
 
 # THANKS
 
