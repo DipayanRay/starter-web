@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 you know for deployment purposes
 
 ## How to contribute
-Don't know
+Don't know plase fork this repository and issue pull request
 
 
 ## Making Changes
